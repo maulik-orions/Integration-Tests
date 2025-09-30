@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>Lani.HelloWorld</AssemblyName>
+    <RootNamespace>Lani.HelloWorld</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Version>1.0.0</Version>
+    <Authors>Lani Quantum Solutions, Inc.</Authors>
+    <Company>Lani Quantum Solutions, Inc.</Company>
+    <Product>Lani HelloWorld Sample</Product>
+    <Description>Simple Hello World console application demonstrating basic Lani project structure.</Description>
+    <Copyright>Copyright (c) Lani Quantum Solutions, Inc. All rights reserved.</Copyright>
+  </PropertyGroup>
+
+</Project>

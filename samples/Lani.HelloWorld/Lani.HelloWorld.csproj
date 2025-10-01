@@ -13,6 +13,10 @@
     <Product>Lani HelloWorld Sample</Product>
     <Description>Simple Hello World console application demonstrating basic Lani project structure.</Description>
     <Copyright>Copyright (c) Lani Quantum Solutions, Inc. All rights reserved.</Copyright>
+<PublishRepositoryUrl>false</PublishRepositoryUrl>
+    <IncludeSymbols>false</IncludeSymbols>
+    <RepositoryUrl></RepositoryUrl>
+    <RepositoryType></RepositoryType>
   </PropertyGroup>
 
 </Project>
